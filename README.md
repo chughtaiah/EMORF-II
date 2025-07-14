@@ -85,8 +85,8 @@ In addition to the supplementary derivations, you’ll find:
 
 
 
-If you use this code in your research, please cite:
-TBD
+If you use this code in your research, please cite EMORF-II: ADAPTIVE EM-BASED OUTLIER-ROBUST FILTERING WITH CORRELATED
+MEASUREMENT NOISE (MLSP 2025)
 
 
 
